@@ -1236,11 +1236,11 @@ input, select, textarea {
 		}
 
 /* Header */
-	i {
+	#home-icon {
 		display: flex;
 		justify-content: center;
-		font-size: 2.2em;
-		align-items: center;
+		padding-top: 25%;
+		font-size: 2.3em;
 	}
 
 	#header {
